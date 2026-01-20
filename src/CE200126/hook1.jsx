@@ -7,5 +7,5 @@ export default function Hook1Example(){
             <button onClick={()=>setCount(count+1)}>Increment</button>
             <button onClick={()=>setCount(count-1)}>Decrement</button>
         </div>
-    );
+    )
 }
